@@ -1,0 +1,7 @@
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\bin\Debug\lauflaengenkomprimierung.exe.config
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\bin\Debug\lauflaengenkomprimierung.exe
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\bin\Debug\lauflaengenkomprimierung.pdb
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\obj\Debug\lauflaengenkomprimierung.csprojAssemblyReference.cache
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\obj\Debug\lauflaengenkomprimierung.csproj.CoreCompileInputs.cache
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\obj\Debug\lauflaengenkomprimierung.exe
+C:\Users\dirk\Desktop\Beispiel Git\lauflaengenkomprimierung\obj\Debug\lauflaengenkomprimierung.pdb
